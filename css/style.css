@@ -748,3 +748,41 @@ footer .ftco-footer-social li a {
   text-transform: uppercase;
   font-weight: 600;
 }
+/* testimonial section  */
+.slider-wrapper{
+  overflow: hidden;
+}
+.slider-wrapper .testimonial-icon{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 1.5rem;
+  color: var(--primary);
+  font-size: 30px;
+}
+.slider-wrapper .slider p{
+  text-align: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+}
+.slider-wrapper .slider .client-image img{
+  object-fit: cover;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+}
+.slider-wrapper .slider h5{
+  font-size: 18px;
+  font-weight: bold;
+  color: var(--secondary);
+  padding-top: 10px;
+}
+.slider-wrapper .slider h6{
+  font-weight: 600;
+  font-size: 14px;
+}
+.slider-wrapper .slider .slide {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

@@ -44,6 +44,7 @@
 <script src="js/splide.min.js"></script>
 <script src="js/splide-extension-url-hash.min.js"></script>
 <script src="js/aos.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 <script src="js/main.js"></script>
 <script>
 AOS.init();

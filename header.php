@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/splide.min.css">
     <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
     <!-- Style -->
     <link rel="stylesheet" href="css/style.css">
     <!-- FAVICON  -->

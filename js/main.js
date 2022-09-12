@@ -107,3 +107,12 @@ bars.forEach(function (bar) {
 // $document.on('click', 'ul li' , function () {
 // 	$(this).addClass('active').siblings().removeClass('active')
 // })
+
+$(document).ready(function () {
+
+$('.slider').slick({
+	arrows: false,
+	autoplay: true
+});
+
+});
