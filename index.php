@@ -6,11 +6,11 @@
         <div class="row align-items-center">
             <div class="col-sm-12 col-md-6 col-lg-6 order-xs-2">
                 <div class="home-wrapper">
-                    <p data-aos="fade-right" data-aos-duration="2000">
+                    <p data-aos="fade-right" data-aos-duration="1000">
                         Be <span>Healthy</span><br>
                         <span>Live</span> Healthy
                     </p>
-                    <div data-aos="fade-up" data-aos-duration="2000" class="d-flex justify-content-center">
+                    <div data-aos="fade-up" data-aos-duration="1000" class="d-flex justify-content-center">
                         <a href="#nutrition-programs">
                             <button class="learn-more">
                                 <span class="circle" aria-hidden="true">
@@ -24,7 +24,7 @@
             </div>
             <div class="col-sm-12 col-md-6 col-lg-6 order-xs-1">
                 <div class="d-flex justify-content-center">
-                    <img data-aos="zoom-in" data-aos-duration="2000" width="80%" class="img-fluid mx-auto"
+                    <img data-aos="zoom-in" data-aos-duration="1000" width="80%" class="img-fluid mx-auto"
                         src="images/homepage.svg" alt="">
                 </div>
             </div>
@@ -36,7 +36,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-4">
-                <div data-aos="fade-right" data-aos-duration="2000" class="card card-1">
+                <div data-aos="fade-up" data-aos-duration="1000" class="card card-1">
                     <img class="mx-auto py-2" src="images/salad1.png" alt="">
                     <h4 class="text-center text-white">Personalized Nutrition</h4>
                     <p class="text-center text-white px-4 pt-2 my-0">
@@ -48,7 +48,7 @@
                 </div>
             </div>
             <div class="col-sm-12 col-md-12 col-lg-4">
-                <div data-aos="fade-up" data-aos-duration="2000" class="card card-2">
+                <div data-aos="fade-up" data-aos-duration="1000" class="card card-2">
                     <img class="mx-auto py-2" src="images/salad2.png" alt="">
                     <h4 class="text-center text-white">Weight Loss Programs</h4>
                     <p class="text-center text-white px-4 pt-2 my-0">
@@ -60,7 +60,7 @@
                 </div>
             </div>
             <div class="col-sm-12 col-md-12 col-lg-4">
-                <div data-aos="fade-left" data-aos-duration="2000" class="card card-3">
+                <div data-aos="fade-up" data-aos-duration="1000" class="card card-3">
                     <img class="mx-auto py-2" src="images/salad3.png" alt="">
                     <h4 class="text-center text-black">Child Nutrition Services</h4>
                     <p class="text-center text-black px-4 pt-2 my-0">
@@ -80,7 +80,7 @@
         <div class="row align-items-center pb-4">
             <div class="col-12">
                 <div class="text-center">
-                    <div data-aos="fade-right" data-aos-duration="2000" class="heading">
+                    <div data-aos="fade-right" data-aos-duration="1000" class="heading">
                         <h2 class="text-uppercase">
                             About Us
                         </h2>
@@ -91,29 +91,29 @@
         <div class="row align-items-center">
             <div class="col-sm-12 col-md-6 col-lg-6 order-xs-2">
                 <div>
-                    <img data-aos="zoom-in" data-aos-duration="2000" class="img-fluid" src="images/about-us.svg" alt="">
+                    <img data-aos="zoom-in" data-aos-duration="1000" class="img-fluid" src="images/about-us.svg" alt="">
                 </div>
             </div>
             <div class="col-sm-12 col-md-6 col-lg-6 order-xs-1">
                 <div class="m-auto">
                     <div class="about">
-                        <h4 data-aos="fade-up" data-aos-duration="2000">We Are The High Quality And Proffessinal
+                        <h4 data-aos="fade-up" data-aos-duration="1000">We Are The High Quality And Proffessinal
                             Nutrition</h4>
-                        <p data-aos="fade-up" data-aos-duration="2000" class="text-justify">
+                        <p data-aos="fade-up" data-aos-duration="1000" class="text-justify">
                             We have been the most trusted “Health care Nutrition” manual for 25 years, & We are proud of
                             our rich history of providing evidence based maintain our reputation in a society which took
                             a long time to be what today we are!
                         </p>
-                        <h4 data-aos="fade-up" data-aos-duration="2000">Nutrition Special Features</h4>
+                        <h4 data-aos="fade-up" data-aos-duration="1000">Nutrition Special Features</h4>
                         <ul>
-                            <li data-aos="fade-right" data-aos-duration="2000">Nutrient requirements</li>
-                            <li data-aos="fade-right" data-aos-duration="2000">Glyceraldehydes load</li>
-                            <li data-aos="fade-right" data-aos-duration="2000">Ways to follow a diet</li>
-                            <li data-aos="fade-right" data-aos-duration="2000">Nutrient requirements</li>
-                            <li data-aos="fade-right" data-aos-duration="2000">Glyceraldehydes load</li>
-                            <li data-aos="fade-right" data-aos-duration="2000">Ways to follow a diet</li>
+                            <li data-aos="fade-right" data-aos-duration="1000">Nutrient requirements</li>
+                            <li data-aos="fade-right" data-aos-duration="1000">Glyceraldehydes load</li>
+                            <li data-aos="fade-right" data-aos-duration="1000">Ways to follow a diet</li>
+                            <li data-aos="fade-right" data-aos-duration="1000">Nutrient requirements</li>
+                            <li data-aos="fade-right" data-aos-duration="1000">Glyceraldehydes load</li>
+                            <li data-aos="fade-right" data-aos-duration="1000">Ways to follow a diet</li>
                         </ul>
-                        <button data-aos="fade-up" data-aos-duration="2000" class="my-4">
+                        <button data-aos="fade-up" data-aos-duration="1000" class="my-4">
                             <span>Contact Us</span>
                         </button>
                     </div>
@@ -128,7 +128,7 @@
         <div class="row align-items-center pb-4">
             <div class="col-12">
                 <div class="text-center">
-                    <div data-aos="fade-right" data-aos-duration="2000" class="heading">
+                    <div data-aos="fade-right" data-aos-duration="1000" class="heading">
                         <h2 class="text-uppercase">
                             Tips for your Healthy <span class="">Life</span>
                         </h2>
@@ -145,7 +145,7 @@
         <div class="tips-section py-2">
             <div class="row align-items-center">
                 <div class="col-sm-12 col-md-6 col-lg-3">
-                    <div data-aos="fade-right" data-aos-duration="2000" class="card tips-card">
+                    <div data-aos="fade-up" data-aos-duration="1000" class="card tips-card">
                         <div class="px-3 py-3">
                             <div class="d-flex justify-content-center">
                                 <img width="50px"
@@ -170,7 +170,7 @@
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-3">
-                    <div data-aos="fade-up" data-aos-duration="2000" class="card">
+                    <div data-aos="fade-up" data-aos-duration="1000" class="card">
                         <div class="px-3 py-3">
                             <div class="d-flex justify-content-center">
                                 <img width="50px"
@@ -195,7 +195,7 @@
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-3">
-                    <div data-aos="fade-up" data-aos-duration="2000" class="card">
+                    <div data-aos="fade-up" data-aos-duration="1000" class="card">
                         <div class="px-3 py-3">
                             <div class="d-flex justify-content-center">
                                 <img width="50px"
@@ -220,7 +220,7 @@
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-3">
-                    <div data-aos="fade-left" data-aos-duration="2000" class="card">
+                    <div data-aos="fade-up" data-aos-duration="1000" class="card">
                         <div class="px-3 py-3">
                             <div class="d-flex justify-content-center">
                                 <img width="50px"
@@ -254,7 +254,7 @@
         <div class="row align-items-center">
             <div class="col-12">
                 <div class="text-center">
-                    <div data-aos="fade-right" data-aos-duration="2000" class="heading">
+                    <div data-aos="fade-right" data-aos-duration="1000" class="heading">
                         <h2 class="text-uppercase">
                             Why Choose Us!
                         </h2>
@@ -265,7 +265,7 @@
         <div class="row align-items-center">
             <div class="col-sm-12 col-md-6 col-lg-6">
                 <div class="why-us">
-                    <p data-aos="fade-up" data-aos-duration="2000" class="text-justify">
+                    <p data-aos="fade-up" data-aos-duration="1000" class="text-justify">
                         It’s our attention to the small stuff, scheduling of timelines and keen project management that
                         makes us stand out from the rest. We are creative, while keeping a close eye on the calendar and
                         your budget.
@@ -305,7 +305,7 @@
                 </div>
             </div>
             <div class="col-sm-12 col-md-6 col-lg-6">
-                <img data-aos="zoom-in" data-aos-duration="2000" class="img-fluid" src="images/why-us.svg" alt="">
+                <img data-aos="zoom-in" data-aos-duration="1000" class="img-fluid" src="images/why-us.svg" alt="">
             </div>
         </div>
     </div>
