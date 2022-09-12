@@ -92,9 +92,12 @@
                                         <li class="has-children">
                                             <a href="#" class="nav-link">Programs</a>
                                             <ul class="dropdown arrow-top">
-                                                <li class="nav-item"><a href="#" class="nav-link">Personalized</a></li>
-                                                <li><a href="#" class="nav-link">Weight Loss</a></li>
-                                                <li><a href="#" class="nav-link">Child Nutrition</a></li>
+                                                <li class="nav-item"><a href="personalized-nutrition.php"
+                                                        class="nav-link">Personalized</a></li>
+                                                <li><a href="weight-loss-program.php" class="nav-link">Weight Loss</a>
+                                                </li>
+                                                <li><a href="child-nutrition.php" class="nav-link">Child Nutrition</a>
+                                                </li>
                                                 <!-- <li class="has-children">
                                                     <a href="#">More Links</a>
                                                     <ul class="dropdown">
