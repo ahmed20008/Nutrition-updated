@@ -373,6 +373,9 @@ a {
       .order-xs-2 {
         order: 2;
       }
+      .team-banner{
+        padding-top: 1.5rem;
+      }
   }
   @media(max-width:991px){
     .about ul {
@@ -785,4 +788,21 @@ footer .ftco-footer-social li a {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+/* OUR TEAM  */
+.inner-page-banner{
+  background: linear-gradient(180deg, var(--white) 0, #23bab18f 200%);
+    padding: 50px 0 30px;
+    position: relative;
+    overflow: hidden;
+}
+.team-banner h2{
+  font-weight: bold;
+  color: var(--secondary);
+  text-align: center;
+}
+.team-banner p {
+  font-weight: 600;
+  color: var(--secondary);
+  text-align: center;
 }
