@@ -111,14 +111,17 @@
                                         <li class="has-children">
                                             <a href="#events-section" class="nav-link">Exercise</a>
                                             <ul class="dropdown arrow-top">
-                                                <li><a href="#" class="nav-link">Weight Loss</a></li>
-                                                <li><a href="#" class="nav-link">Weight Gain</a></li>
-                                                <li><a href="#" class="nav-link">Muscle Gain</a></li>
+                                                <li><a href="weight-loss-exercise.php" class="nav-link">Weight Loss</a>
+                                                </li>
+                                                <li><a href="weight-gain-exercise.php" class="nav-link">Weight Gain</a>
+                                                </li>
+                                                <li><a href="muscle-gain-exercise.php" class="nav-link">Muscle Gain</a>
+                                                </li>
                                             </ul>
                                         </li>
-                                        <li><a href="#gallery-section" class="nav-link">Recipes</a></li>
-                                        <li><a href="#gallery-section" class="nav-link">Blog</a></li>
-                                        <li><a href="#contact-section" class="nav-link">Contact</a></li>
+                                        <li><a href="recipie.php" class="nav-link">Recipies</a></li>
+                                        <li><a href="blog.php" class="nav-link">Blog</a></li>
+                                        <li><a href="contact.php" class="nav-link">Contact</a></li>
                                     </ul>
                                 </div>
                             </nav>
