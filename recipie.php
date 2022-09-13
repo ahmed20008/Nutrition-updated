@@ -24,7 +24,7 @@
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-6 order-xs-1">
                     <div class="d-flex justify-content-center">
-                        <img width="50%" class="img-fluid" src="images/recipe-banner.svg" alt="">
+                        <img width="50%" class="img-fluid" src="images/our-recipe-banner.svg" alt="">
                     </div>
                 </div>
             </div>
