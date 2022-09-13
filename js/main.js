@@ -103,11 +103,13 @@ bars.forEach(function (bar) {
 	tooltip.innerText= percentage + '%';
 	bar.style.width = percentage + '%';
 })
+
 // ACTIVE NAVBAR 
 // $document.on('click', 'ul li' , function () {
 // 	$(this).addClass('active').siblings().removeClass('active')
 // })
 
+// testimonial slider 
 $(document).ready(function () {
 
 $('.slider').slick({
