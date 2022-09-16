@@ -8,19 +8,27 @@
                 </h2>
                 <p class="menu">
                     <a href="index.php">Home</a>
-                    <a href="our-team.php">Our Team</a>
-                    <a href="#">Recipes</a>
-                    <a href="#">Blog</a>
-                    <a href="#">Contact</a>
+                    <a href="recipie.php">Recipes</a>
+                    <a href="blog.php">Blog</a>
+                    <a href="about-us.php">About Us</a>
+                    <a href="contact.php">Contact</a>
                 </p>
-                <!-- <ul class="ftco-footer-social p-0">
-                    <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top"
-                            title="Twitter"><span class="ion-logo-twitter"></span></a></li>
-                    <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top"
-                            title="Facebook"><span class="ion-logo-facebook"></span></a></li>
-                    <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top"
-                            title="Instagram"><span class="ion-logo-instagram"></span></a></li>
-                </ul> -->
+                <div class="container">
+                    <div class="footer-socials">
+                        <div class="row">
+                        <div class="col-12">
+                            <div class="d-flex justify-content-center">
+                                <a href="#">
+                                    <a href="#" class="p-2 pl-0"><span class="icon-twitter"></span></a>
+                                    <a href="#" class="p-2 pl-0"><span class="icon-facebook"></span></a>
+                                    <a href="#" class="p-2 pl-0"><span class="icon-linkedin"></span></a>
+                                    <a href="#" class="p-2 pl-0"><span class="icon-instagram"></span></a>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="row mt-5">

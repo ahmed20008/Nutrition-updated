@@ -603,15 +603,15 @@ a {
   border: 2px solid #efefef;
   border-radius: 10px;
   transition: all 0.9s ease 0s;
+  filter: grayscale(1);
 }
 .tips-section .card:hover {
   border: 2px solid var(--primary);
   border-radius: 10px;
   transition: all 0.9s ease 0s;
+  filter: grayscale(0);
 }
-.tips-section .card img{
-  color: #efefef;
-}
+
 .tips-section .card h4{
   margin-top: 1rem;
 }
@@ -682,8 +682,11 @@ footer {
 
 footer p {
   color: rgba(255, 255, 255, 0.3);
+  font-weight: 600;
 }
-
+footer .menu a:hover{
+  color: var(--primary);
+}
 footer .footer-heading {
   font-size: 30px;
   color: #fff;
@@ -704,10 +707,11 @@ footer .menu a {
   margin: 0 10px;
   letter-spacing: 1px;
 }
-
-footer .ftco-footer-social li a {
-  background: transparent;
-  border: 1px solid var(--white);
+.footer-socials a span{
+  color: var(--white) !important;
+}
+.footer-socials a span:hover{
+  color: var(--primary) !important;
 }
 
 
@@ -789,10 +793,10 @@ footer .ftco-footer-social li a {
   flex-direction: column;
   align-items: center;
 }
-/* OUR TEAM  */
+/* all banners  */
 .inner-page-banner{
   background: linear-gradient(180deg, var(--white) 0, #23bab18f 200%);
-    padding: 50px 0 30px;
+    padding: 40px 0 20px;
     position: relative;
     overflow: hidden;
 }
@@ -805,4 +809,14 @@ footer .ftco-footer-social li a {
   font-weight: 600;
   color: var(--secondary);
   text-align: center;
+}
+.personalized p {
+  text-align: justify;
+}
+.personalized p span{
+  font-weight: bold;
+  font-style: italic;
+}
+.why-personalized h3 {
+  font-weight: bold;
 }

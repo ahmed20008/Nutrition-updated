@@ -88,7 +88,6 @@
                                     <ul class="site-menu main-menu js-clone-nav d-none d-lg-block">
                                         <li class="active"><a href="index.php" class="nav-link">Home</a>
                                         </li>
-                                        <li><a href="our-team.php" class="nav-link">Our Team</a></li>
                                         <li class="has-children">
                                             <a href="#" class="nav-link">Programs</a>
                                             <ul class="dropdown arrow-top">
@@ -121,6 +120,7 @@
                                         </li>
                                         <li><a href="recipie.php" class="nav-link">Recipies</a></li>
                                         <li><a href="blog.php" class="nav-link">Blog</a></li>
+                                        <li><a href="About-us.php" class="nav-link">About Us</a></li>
                                         <li><a href="contact.php" class="nav-link">Contact</a></li>
                                     </ul>
                                 </div>

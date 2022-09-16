@@ -7,7 +7,7 @@
             <div class="row align-items-center">
                 <div class="col-sm-12 col-md-6 col-lg-6 order-xs-2">
                     <div class="team-banner">
-                        <h2>Our Team</h2>
+                        <h2>About Us</h2>
                         <p>
                             We have been the most trusted “Health care Nutrition” manual for 25 years, We are proud of
                             our rich history of providing evidence based nutrition resources.
