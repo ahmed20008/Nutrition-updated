@@ -29,6 +29,16 @@ body {
     opacity: 1;
     z-index: 1002;
     visibility: visible; }
+::-webkit-scrollbar {
+  width: 11px;
+}
+::-webkit-scrollbar-track {
+  background: #f2efeff7;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--secondary);
+  border-radius: 50px;
+}
 .text-black {
   color: #000 !important; }
 
@@ -386,6 +396,20 @@ a {
       }
       .tips-section .card{
         margin: 2rem 0;
+      }
+      section.contact-cards .card-1 {
+        align-items: center;
+        text-align: center;
+      }
+
+      section.contact-cards .card-2 {
+        align-items: center;
+        text-align: center;
+      }
+
+      section.contact-cards .card-3 {
+        align-items: center;
+        text-align: center;
       }
   }
 .home-wrapper p{
@@ -830,4 +854,68 @@ section.personalized-team .our-team img{
 section.personalized-team .our-team img:hover{
   filter: grayscale(0);
   transition: all 0.3s ease-in-out;
+}
+.map {
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+section.contact-cards .card{
+  padding: 2rem 2rem;
+}
+section.contact-cards .card-1{
+  background-color: var(--primary); 
+  border: none;
+  border-radius: 3px;
+}
+section.contact-cards .card-1 h4{
+  font-weight: bold;
+  color: #fff;
+}
+section.contact-cards .card-1 p{
+  color: #fff;
+}
+section.contact-cards .card-1 a{
+  text-decoration: underline !important;
+  color: #fff;
+}
+section.contact-cards .card-1 a:hover{
+  color: var(--secondary);
+}
+section.contact-cards .card-2 {
+  background-color: var(--secondary);
+  border: none;
+  border-radius: 3px;
+}
+section.contact-cards .card-2 a:hover {
+  color: var(--primary) !important;
+  text-decoration: underline !important;
+}
+section.contact-cards .card-2 h4{
+  font-weight: bold;
+  color: #fff;
+}
+section.contact-cards .card-2 p {
+  color: #fff;
+}
+
+section.contact-cards .card-3 {
+  background-color: #f2efeff7;
+  border: none;
+  border-radius: 3px;
+}
+
+section.contact-cards .card-3 a:hover {
+  color: var(--primary) !important;
+  text-decoration: underline !important;
+}
+section.contact-cards .card-3 h4{
+  font-weight: bold;
+  color: #000;
+}
+section.contact-cards .card-3 h5 {
+  font-weight: bold;
+  color: var(--primary);
 }
