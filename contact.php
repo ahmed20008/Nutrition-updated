@@ -1,4 +1,7 @@
 <?php
+    $title = "Contact | Nutritional Pakistan";
+    $description="We have been the most trusted “Health care Nutrition” manual for 25 years, & We are proud of our rich history of providing evidence based maintain our reputation in a society which took a long time to be what today we are!";
+    $keyword="";
 @include('header.php')
 ?>
 <section>
@@ -29,6 +32,11 @@
                 </div>
             </div>
         </div>
+    </div>
+</section>
+<section>
+    <div class="container">
+
     </div>
 </section>
 

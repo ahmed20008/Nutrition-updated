@@ -820,3 +820,14 @@ footer .menu a {
 .why-personalized h3 {
   font-weight: bold;
 }
+section.personalized-team .our-team img{
+  width: 238px;
+  height: 281px;
+  object-fit: cover;
+  border-radius: 5px;
+  filter: grayscale(1);
+}
+section.personalized-team .our-team img:hover{
+  filter: grayscale(0);
+  transition: all 0.3s ease-in-out;
+}
