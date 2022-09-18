@@ -9,14 +9,14 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-sm-12 col-md-6 col-lg-6 order-xs-2">
-                    <div class="team-banner">
+                    <div data-aos="fade-up" data-aos-duration="1000" class="team-banner">
                         <h2>Contact Us</h2>
                         <p>
                             We have been the most trusted “Health care Nutrition” manual for 25 years, We are proud of
                             our rich history of providing evidence based nutrition resources.
                         </p>
                         <div class="d-flex justify-content-center home-wrapper">
-                            <button class="learn-more">
+                            <button data-aos="fade-up" data-aos-duration="1000" class="learn-more">
                                 <span class="circle" aria-hidden="true">
                                     <span class="icon arrow"></span>
                                 </span>
@@ -26,7 +26,7 @@
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-6 order-xs-1">
-                    <div class="d-flex justify-content-center">
+                    <div data-aos="fade-up" data-aos-duration="1000" class="d-flex justify-content-center">
                         <img width="50%" class="img-fluid" src="images/contact-us-banner.svg" alt="">
                     </div>
                 </div>
@@ -139,31 +139,31 @@
             <form action="">
                 <div class="row">
                     <div class="col-sm-12 col-md-6 col-lg-6 my-2">
-                        <div class="input-group">
+                        <div data-aos="fade-up" data-aos-duration="1000" class="input-group">
                             <input required="" type="text" name="text" autocomplete="off" class="input">
                             <label class="user-label">First Name</label>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-6 col-lg-6 my-2">
+                    <div data-aos="fade-up" data-aos-duration="1000" class="col-sm-12 col-md-6 col-lg-6 my-2">
                         <div class="input-group">
                             <input required="" type="text" name="text" autocomplete="off" class="input">
                             <label class="user-label">Last Name</label>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-12 col-lg-12 my-2">
+                    <div data-aos="fade-up" data-aos-duration="1000" class="col-sm-12 col-md-12 col-lg-12 my-2">
                         <div class="input-group">
                             <input required="" type="text" name="text" autocomplete="off" class="input">
                             <label class="user-label">Subject</label>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-12 col-lg-12 my-2">
+                    <div data-aos="fade-up" data-aos-duration="1000" class="col-sm-12 col-md-12 col-lg-12 my-2">
                         <div class="input-group">
                             <textarea required="" type="text" name="text" autocomplete="off" class="input" rows="4"
                                 cols="50"></textarea>
                             <label class="user-label">Message</label>
                         </div>
                     </div>
-                    <div class="col-12">
+                    <div data-aos="fade-up" data-aos-duration="1000" class="col-12">
                         <button>
                             <div class="svg-wrapper-1">
                                 <div class="svg-wrapper">
@@ -185,9 +185,9 @@
 </section>
 
 <section>
-    <div class="container">
-        <div class="my-2">
-            <iframe class="map"
+    <div class="container-fluid">
+        <div class="mt-2">
+            <iframe data-aos="fade-up" data-aos-duration="1000" class="map"
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d435518.681783653!2d74.05418981777392!3d31.48322087499928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39190483e58107d9%3A0xc23abe6ccc7e2462!2sLahore%2C%20Punjab%2C%20Pakistan!5e0!3m2!1sen!2s!4v1663444724754!5m2!1sen!2s"
                 width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade">
