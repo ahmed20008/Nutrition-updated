@@ -54,14 +54,32 @@
             <div class="col-sm-12 col-md-12 col-lg-4 py-2">
                 <div data-aos="fade-up" data-aos-duration="1000" class="card card-2">
                     <h4>Quick Connect</h4>
-                    <!-- phone icon is spossed to be here.  -->
+
                     <p>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                            class="bi bi-telephone-fill" viewBox="0 0 16 16">
+                            <path fill-rule="evenodd"
+                                d="M1.885.511a1.745 1.745 0 0 1 2.61.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z" />
+                        </svg>
+                        &nbsp;
                         +92-300-0000000
                         <br>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                            class="bi bi-telephone-fill" viewBox="0 0 16 16">
+                            <path fill-rule="evenodd"
+                                d="M1.885.511a1.745 1.745 0 0 1 2.61.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z" />
+                        </svg>
+                        &nbsp;
                         +92-300-0000000
                     </p>
                     <!-- email icon is spossed to be here  -->
                     <p>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                            class="bi bi-envelope-fill" viewBox="0 0 16 16">
+                            <path
+                                d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z" />
+                        </svg>
+                        &nbsp;
                         info@nutrional-pakistan.com
                     </p>
                 </div>
@@ -71,12 +89,30 @@
                     <h4>Career Inquiries</h4>
                     <h5>John Martin</h5>
                     <p class="mb-2">
-                        Ph: (+01) 123 456 7899
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                            class="bi bi-telephone-fill" viewBox="0 0 16 16">
+                            <path fill-rule="evenodd"
+                                d="M1.885.511a1.745 1.745 0 0 1 2.61.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z" />
+                        </svg>
+                        &nbsp;
+                        (+01) 123 456 7899
                         <br>
-                        Ph: (+01) 123 456 7899
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                            class="bi bi-telephone-fill" viewBox="0 0 16 16">
+                            <path fill-rule="evenodd"
+                                d="M1.885.511a1.745 1.745 0 0 1 2.61.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z" />
+                        </svg>
+                        &nbsp;
+                        (+01) 123 456 7899
                     </p>
                     <p class="mb-0">
-                        Email: info@example.com
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                            class="bi bi-envelope-fill" viewBox="0 0 16 16">
+                            <path
+                                d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z" />
+                        </svg>
+                        &nbsp;
+                        info@example.com
                     </p>
                 </div>
             </div>
@@ -84,12 +120,73 @@
     </div>
 </section>
 
-
-
+<section class="get-in-touch">
+    <div class="container py-5">
+        <div class="row align-items-center pb-2">
+            <div class="col-12">
+                <div class="text-center">
+                    <div data-aos="fade-right" data-aos-duration="1000" class="heading">
+                        <h2 class="text-uppercase mb-4">
+                            Get in Touch
+                        </h2>
+                        <h4 class="text-left contact-form">Contact Form</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="contact-form">
+            <!-- contact form  -->
+            <form action="">
+                <div class="row">
+                    <div class="col-sm-12 col-md-6 col-lg-6 my-2">
+                        <div class="input-group">
+                            <input required="" type="text" name="text" autocomplete="off" class="input">
+                            <label class="user-label">First Name</label>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-6 col-lg-6 my-2">
+                        <div class="input-group">
+                            <input required="" type="text" name="text" autocomplete="off" class="input">
+                            <label class="user-label">Last Name</label>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-12 col-lg-12 my-2">
+                        <div class="input-group">
+                            <input required="" type="text" name="text" autocomplete="off" class="input">
+                            <label class="user-label">Subject</label>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-12 col-lg-12 my-2">
+                        <div class="input-group">
+                            <textarea required="" type="text" name="text" autocomplete="off" class="input" rows="4"
+                                cols="50"></textarea>
+                            <label class="user-label">Message</label>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <button>
+                            <div class="svg-wrapper-1">
+                                <div class="svg-wrapper">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+                                        <path fill="none" d="M0 0h24v24H0z"></path>
+                                        <path fill="currentColor"
+                                            d="M1.946 9.315c-.522-.174-.527-.455.01-.634l19.087-6.362c.529-.176.832.12.684.638l-5.454 19.086c-.15.529-.455.547-.679.045L12 14l6-8-8 6-8.054-2.685z">
+                                        </path>
+                                    </svg>
+                                </div>
+                            </div>
+                            <span>Send</span>
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</section>
 
 <section>
     <div class="container">
-        <div class="my-5">
+        <div class="my-2">
             <iframe class="map"
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d435518.681783653!2d74.05418981777392!3d31.48322087499928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39190483e58107d9%3A0xc23abe6ccc7e2462!2sLahore%2C%20Punjab%2C%20Pakistan!5e0!3m2!1sen!2s!4v1663444724754!5m2!1sen!2s"
                 width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
